@@ -1,5 +1,5 @@
 # contact_todo
-modest-johnson-cd8b34.netlify.app
+Go to project [Configuration Reference](https://modest-johnson-cd8b34.netlify.app)
 
 ## Project setup
 ```
